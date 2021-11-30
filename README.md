@@ -24,11 +24,13 @@ This is very new and probably buggy, so make sure you have a backup of your iTun
 
 1. Backup your iTunes Library and media!
 
-2. Edit script with proper locations if needed (.xml, music and playlist locations)
+2. (If using the new Music.app, export the Libary as an .xml file: `File > Library > Export Library`)
 
-3. Check script permissions, make it executable: `chmod +x syncplaylists.sh`
+3. Edit script with proper locations if needed (.xml, music and playlist locations)
 
-4. Run script `./syncplaylists.sh`
+4. Check script permissions, make it executable: `chmod +x syncplaylists.sh`
+
+5. Run script `./syncplaylists.sh`
 
 
 ----
